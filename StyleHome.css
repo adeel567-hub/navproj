@@ -1,0 +1,16 @@
+.HomeStyle {  
+ 
+    width: 100%; 
+    height: 400px;
+    color: red    ;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+
+    background-color: blue
+    
+
+
+
+
+}
